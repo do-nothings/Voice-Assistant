@@ -31,17 +31,17 @@ For example: C:\Users\User\PycharmProjects
 2. Press the start button on the window that appeared.
 3. Speak out the command you want the assistant to do. The commands are as follows,
 
-    a) What is the time now
-    b) Search    #search from Google
-    c) Video     #search video from YouTube
-    d) Location  #show map location
-    e) Send email 
-    f) Tell me a joke
-    g) Weather
-    h) Item      #Add item to the to-do list
-    i) Show      #show your to-do list
-    j) Delete    #delete an item from the to-do list
-    k) Meaning   #ask for the meaning of certain words
-    l) Play      #Play a snake game
+a. What is the time now 
+b. Search    #search from Google
+c. Video     #search video from YouTube
+d. Location  #show map location
+e. Send email 
+f. Tell me a joke
+g. Weather
+h. Item      #Add item to the to-do list
+i. Show      #show your to-do list
+j. Delete    #delete an item from the to-do list
+k. Meaning   #ask for the meaning of certain words
+l. Play      #Play a snake game
     
 4. Speak Exit or press the EXIT button to close the window.
