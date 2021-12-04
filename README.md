@@ -26,7 +26,7 @@ For example: C:\Users\User\PycharmProjects
 4. Click new to create new environment variables.
 5. Click OK to save the changes.
 
-## The steps to run the code are as follows: ##
+## Steps to run the code are as follows: ##
 1. Run with Command Prompt (CMD) or PyCharm.
 2. Press the start button on the window that appeared.
 3. Speak out the command you want the assistant to do. The commands are as follows,
