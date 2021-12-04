@@ -19,6 +19,13 @@ In order to run the software,
 You should put the code in the file of Pycharm Projects.
 For example: C:\Users\User\PycharmProjects
 
+## Steps to create new environment variables ##
+1. On the Windows taskbar, open the window and select the system.
+2. In the system window, click Advanced System Setting.
+3. Click Environment Variables.
+4. Click new to create new environment variables.
+5. Click OK to save the changes.
+
 ## The steps to run the code are as follows: ##
 1. Run with Command Prompt (CMD) or PyCharm.
 2. Press the start button on the window that appeared.
@@ -38,10 +45,3 @@ For example: C:\Users\User\PycharmProjects
     l) Play      #Play a snake game
     
 4. Speak Exit or press the EXIT button to close the window.
-
-## Steps to create new environment variables ##
-1. On the Windows taskbar, open the window and select the system.
-2. In the system window, click Advanced System Setting.
-3. Click Environment Variables.
-4. Click new to create new environment variables.
-5. Click OK to save the changes.
